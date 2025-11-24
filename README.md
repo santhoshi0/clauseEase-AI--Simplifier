@@ -2,7 +2,7 @@ ClauseEase: AI-Based Contract Language Simplifier
 
     "Clear Contracts. Confident Decisions."
 
-Project Status Python Flask Firebase AI Models
+
 
 ClauseEase is an AI-driven solution designed to bridge the gap between complex legal documents and the general public. It automates the extraction, analysis, and simplification of legal clauses into plain English, fostering transparency and enabling informed decision-making for non-lawyers, business professionals, and legal researchers.
 📑 Table of Contents
