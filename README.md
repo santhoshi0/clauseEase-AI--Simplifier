@@ -117,9 +117,11 @@ python app.py
 📸 Screenshots
 1. Home Page  <img width="1919" height="1029" alt="517728424-075350ee-b798-4d7c-bfc6-216596b2a4f8" src="https://github.com/user-attachments/assets/03aca0b5-51d0-446f-ae97-2407266e9703" />
 
-2. 2. Analysis Results
-Home Page 	Analysis Results
-3. See History 	4. Admin Dashboard
+2. 2. Analysis Results <img width="1919" height="1030" alt="517728271-3fcae6de-a1b0-47f0-b1d2-074cfe9086c1" src="https://github.com/user-attachments/assets/9c9eb604-7e40-45c2-8c54-0c2cf2e0498b" />
+3. See History  <img width="1919" height="1030" alt="517728464-5e256022-f49e-4da7-983c-1fb52bd89f5f" src="https://github.com/user-attachments/assets/6e8ad648-c3d0-457d-9685-e6bd6a4250dd" />
+
+4. 	4. Admin Dashboard  <img width="1655" height="1028" alt="517728590-a5d70914-1048-4c31-af57-06625bdd0d6d" src="https://github.com/user-attachments/assets/d1a0cffb-4500-47a7-ba47-1751402e06a4" />
+
 See History 	Admin Dashboard
 🔮 Future Enhancements
 
