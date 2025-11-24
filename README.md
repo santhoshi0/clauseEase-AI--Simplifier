@@ -5,27 +5,28 @@ ClauseEase: AI-Based Contract Language Simplifier
 
 
 ClauseEase is an AI-driven solution designed to bridge the gap between complex legal documents and the general public. It automates the extraction, analysis, and simplification of legal clauses into plain English, fostering transparency and enabling informed decision-making for non-lawyers, business professionals, and legal researchers.
+
 📑 Table of Contents
 
-    Abstract
-    Key Features
-    System Architecture
-    AI & NLP Models
-    Tech Stack
-    Installation & Setup
-    Screenshots
-    Future Enhancements
-    Team
-    References
+    .Abstract
+    .Key Features
+    .System Architecture
+    .AI & NLP Models
+    .Tech Stack
+    .Installation & Setup
+    .Screenshots
+    .Future Enhancements
+    .Team
+    .References
 
 📝 Abstract
 
 Legal contracts are often written in dense, specialized jargon that creates barriers for individuals without legal expertise. ClauseEase addresses this by leveraging advanced NLP (Natural Language Processing) to:
 
-    Ingest documents (PDF, DOCX, TXT).
-    Detect and classify legal clauses.
-    Recognize specific legal terminology.
-    Rewrite complex text into understandable plain English while preserving legal intent.
+    1.Ingest documents (PDF, DOCX, TXT).
+    2.Detect and classify legal clauses.
+    3.Recognize specific legal terminology.
+    4.Rewrite complex text into understandable plain English while preserving legal intent.
 
 ✨ Key Features
 
@@ -39,7 +40,7 @@ Legal contracts are often written in dense, specialized jargon that creates barr
 
 🏗 System Architecture
 
-ClauseEase employs a multi-layered architecture:
+  ClauseEase employs a multi-layered architecture:
 
     Frontend: HTML/CSS/JavaScript interface for user interaction.
     Backend: Flask (Python) server acting as the central hub/API.
@@ -82,7 +83,7 @@ Steps
 
 Clone the Repository
 
-git clone https://github.com/tulu-g559/ClauseEase_app.git
+git clone 
 
 Create a Virtual Environment
 
